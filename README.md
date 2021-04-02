@@ -1,6 +1,6 @@
 # Honest E-ink Calendar
 
-This project is based on a waveshare 5.83 e-ink screen and a raspberry pi zero. The goal is to have a "nice" e-ink display inspired by the honest weather app. Example of honest weather app [here].(https://play.google.com/store/apps/details?id=com.codinghard.honestweather&hl=en_US&gl=US)
+This project is based on a waveshare 5.83 e-ink screen and a raspberry pi zero. The goal is to have a "nice" e-ink display inspired by the honest weather app. Example of honest weather app [here](https://play.google.com/store/apps/details?id=com.codinghard.honestweather&hl=en_US&gl=US).
 
 The calendar use the google calendar api to retreive your event. If an the title of the event start with **!h**, the event will be interpreted as an highlighted event and will be displayed differently.
 
